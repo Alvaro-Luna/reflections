@@ -12,10 +12,16 @@ from the working directory since doesn´t need to have all the files in the dire
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+You can add to the staging area only the files (changes) you want to commit in one step
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When trying to experiment really new stuff and not to risk the project.
+
 How do the diagrams help you visualize the branch structure?
+
+Knowing if some commits are unreachable and knowing when to merge them
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
