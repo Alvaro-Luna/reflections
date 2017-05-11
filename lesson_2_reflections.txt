@@ -6,6 +6,9 @@ For starting commiting new changes
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+I think the staging area offers more control to the commits you can make to the repository. It is different
+from the working directory since doesn´t need to have all the files in the directory.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
