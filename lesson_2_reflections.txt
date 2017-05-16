@@ -26,5 +26,11 @@ Knowing if some commits are unreachable and knowing when to merge them
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Combining all the changes in the two branches in just one branch. Because for some time those branches
+were independent one from another.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Pros: More efficient and agile merging.
+Cons: Git can sometimes make mistakes by automatic merging
